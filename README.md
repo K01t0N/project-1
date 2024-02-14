@@ -25,6 +25,7 @@ Data cleaning and preparation were done to ensure the integrity and reliability 
 - Limiting the scope of the study to adults aged 21 years and above.
 - Removing patients whose smoking history was labeled as "ever," as this could not be confirmed as a mistyping of "never." These instances constituted less than 5% of the dataset and were deemed potentially unreliable.
 - Eliminating rows with null values in essential variables such as gender, hypertension, heart disease, smoking history, and diabetes status.
+
 Following the data cleaning and preparation steps, the dataset had 73,978 rows. Further filtering was then applied to isolate individuals who reported having Diabetes, resulting in a subset of 7,913 individuals. 
 
 
