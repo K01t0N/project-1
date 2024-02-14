@@ -58,16 +58,16 @@ a quarter (25%) reported having hypertension, and
 15% reported having heart disease.
 
 **Smoking History:**
-Among those with diabetes, a significant amount (42%) reported never smoking, whereas:
-20% were former smokers.
-12% were current smokers.
+Among those with diabetes, a significant amount (42%) reported never smoking, whereas,
+20% were former smokers,
+12% were current smokers, and
 26% had no reported smoking history.
 
 **Body Mass Index (BMI):**
 On average, individuals with diabetes had a BMI of 32.12 kg/m² (median = 30.06 and SD = 7.54), compared to 28.39 kg/m² (median = 27.3 and SD = 5.72) for non-diabetics.
 
 The majority of those with Diabetes were overweight (40%) or obese (50%). The other body mass index distribution among individuals with diabetes are:
-9% were of healthy weight.
+9% were of healthy weight and 
 1% were underweight.
 
 **Blood glucose and HbA1c levels:**
@@ -75,7 +75,7 @@ The average HgA1c level for those with Diabetes was 6.9% (median = 6.6 and SD = 
 
 The average blood glucose level was 194.4mg/dL (median of 160 and SD= 58.69) for Diabetics and 132 mg/dL (median = 140 and SD = 34.2) for non-diabetics. The CDC's (2022) fasting blood sugar ranges are:
 diabetics:  126 mg/dL or above,
-prediabetics:  100 -125 mg/dL.
+prediabetics:  100 -125 mg/dL, and 
 and normal:  99 mg/dL or below.
 
 #### Prevalence of Diabetes without Comorbidities (Question #2)
