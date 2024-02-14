@@ -33,7 +33,7 @@ Following the data cleaning and preparation steps, the dataset had 73,978 rows. 
 
 Summary statistics, including mean, median, and standard deviation, were calculated for continuous variables such as age, BMI, HbA1c, and blood glucose. For categorical variables like gender, smoking history, hypertension, heart disease, and BMI categories, percentages were used to show the distribution of each category within the sample.
 
-Additionally, visualization techniques such as bar charts were employed to compare the percentage of individuals diagnosed with Diabetes across different categories, such as BMI and age groups, as well as heart disease and hypertension status. Scatter plots were utilized to visualize the relationship between age and BMI. Furthermore, box plots were employed to visualize the distribution of diabetes status across different variables.
+Additionally, visualization techniques such as bar charts were employed to compare the percentage of individuals diagnosed with diabetes across different categories, such as BMI and age groups, as well as heart disease and hypertension status. Scatter plots were utilized to visualize the relationship between age and BMI. Furthermore, box plots were employed to visualize the distribution of diabetes status across different variables.
 
 
 ### Findings
@@ -41,7 +41,7 @@ Additionally, visualization techniques such as bar charts were employed to compa
 #### Analysis of Contributing Factors and Trends (Question #1)
 
 **Gender and Age:**
-Among individuals in the dataset, approximately one-tenth (10.7%) reported having diabetes. Of those with diabetes:
+Among individuals in the dataset, approximately one-tenth (10.7%) reported having diabetes. Of those with diabetes,
 a slightly higher proportion (53%) identified as female and
 47% identified as male.
 
