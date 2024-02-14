@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Diabetes, also known as diabetes mellitus, represents a significant global health challenge, with its prevalence steadily increasing. According to the International Diabetes Federation, approximately 537 million adults aged 20-79 were affected worldwide in 2021. In the United States, the Centers for Disease Control and Prevention's 2022 data indicate that over 133 million individuals are affected by either Diabetes (37.3 million) or prediabetes (96 million), and approximately 90-95% of them have type 2 diabetes. This escalating burden highlights the importance of understanding the contributing factors.
+Diabetes, also known as diabetes mellitus, represents a significant global health challenge, with its prevalence steadily increasing. According to the International Diabetes Federation, approximately 537 million adults aged 20-79 were affected worldwide in 2021. In the United States, the Centers for Disease Control and Prevention's 2022 data indicate that over 133 million individuals are affected by either prediabetes (96 million) or diabetes (37.3 million), and of those who are diabetic, approximately 90-95% of them have type 2 diabetes. This escalating burden highlights the importance of understanding the contributing factors.
 
 Our exploratory analysis focused on the diabetes prediction dataset; our aim was to see if there are possible relationships between an individual diagnosed with Type 2 Diabetes and other behaviors, conditions, or demographics. Age, gender, body mass index (BMI), hypertension, heart disease, smoking history, glycated hemoglobin (HbA1c) level, and blood glucose level were analyzed. 
 
