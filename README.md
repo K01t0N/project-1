@@ -89,7 +89,7 @@ In evaluating the comorbidities (illnesses) among individuals who reported havin
  - Only 4% of individuals diagnosed with Diabetes in the dataset have both hypertension and heart disease.
 
 
-#### Exploring Correlations with Diabetic Diagnosis (Question #3)
+#### Exploring Correlations with Diabetes Diagnosis (Question #3)
 
 In examining the correlations between various demographic and health factors for those individuals who reported having diabetes, we found that the majority (80%) of individuals diagnosed with diabetes in this dataset are aged 45 and older and have a BMI of 25 kg/m² or higher. While: 
 
