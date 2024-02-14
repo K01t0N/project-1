@@ -73,9 +73,9 @@ The majority of those with Diabetes were overweight (40%) or obese (50%). The ot
 The average HgA1c level for those with Diabetes was 6.9% (median = 6.6 and SD = 1.08), whereas the average HgA1c level for non-diabetics was 5.4 % (median = 5.8 and SD = 0.97). According to the CDC (2022), hemoglobin A1C (HbA1c) levels are normally below 5.7% for non-diabetics, between 5.7% and 6.4% for prediabetics and 6.5% or higher for those with diabetes.
 
 The average blood glucose level was 194.4mg/dL (median of 160 and SD= 58.69) for Diabetics and 132 mg/dL (median = 140 and SD = 34.2) for non-diabetics. The CDC's (2022) fasting blood sugar ranges are:
-diabetics:  126 mg/dL or above
-rrediabetics:  100 -125 mg/dL
-normal:  99 mg/dL or below
+diabetics:  126 mg/dL or above,
+prediabetics:  100 -125 mg/dL.
+and normal:  99 mg/dL or below.
 
 #### Prevalence of Diabetes without Comorbidities (Question #2)
 
