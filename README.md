@@ -82,22 +82,22 @@ and normal:  99 mg/dL or below.
 
 In evaluating the comorbidities (illnesses) among individuals who reported having diabetes, we observe varying prevalence rates of heart disease and hypertension. The majority (65%) of individuals diagnosed with Diabetes in the dataset do not have heart disease or hypertension. Whereas:
 
- -21% of individuals diagnosed with Diabetes in the dataset have hypertension but no heart disease.
+ - 21% of individuals diagnosed with Diabetes in the dataset have hypertension but no heart disease.
 
- -11% of individuals diagnosed with Diabetes in the dataset have heart disease but no hypertension.
+ - 11% of individuals diagnosed with Diabetes in the dataset have heart disease but no hypertension.
 
- -Only 4% of individuals diagnosed with Diabetes in the dataset have both hypertension and heart disease.
+ - Only 4% of individuals diagnosed with Diabetes in the dataset have both hypertension and heart disease.
 
 
 #### Exploring Correlations with Diabetic Diagnosis (Question #3)
 
 In examining the correlations between various demographic and health factors for those individuals who reported having diabetes, we found that the majority (80%) of individuals diagnosed with diabetes in this dataset are aged 45 and older and have a BMI of 25 kg/m² or higher. While: 
 
- -10% of individuals diagnosed with Diabetes in the dataset are under the age of 45 and have a BMI of 25 kg/m² or higher.
+ - 10% of individuals diagnosed with Diabetes in the dataset are under the age of 45 and have a BMI of 25 kg/m² or higher.
 
- -9% of individuals diagnosed with Diabetes in the dataset are aged 45 or older but have a BMI below 24.9 kg/m².
+ - 9% of individuals diagnosed with Diabetes in the dataset are aged 45 or older but have a BMI below 24.9 kg/m².
 
- -Only 1% of individuals diagnosed with Diabetes are under the age of 45 and have a BMI below 24.9 kg/m².
+ - Only 1% of individuals diagnosed with Diabetes are under the age of 45 and have a BMI below 24.9 kg/m².
 
 ### Limitations
 
