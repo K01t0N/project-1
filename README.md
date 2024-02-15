@@ -112,7 +112,7 @@ Secondly, the dataset did not specify the blood glucose level measurement type (
 
 An understanding of the demographic patterns associated with diabetes diagnosis, such as age and gender, allows for targeted interventions that are tailored to specific populations. For example, interventions aimed at preventing and managing diabetes may prioritize older age groups (45 years and older), given their higher prevalence.
 
-Given the association between obesity (indicated by BMI) and Diabetes, interventions focusing on weight management and lifestyle modifications are vital. Emphasizing the importance of healthy dietary habits and regular physical activity can help mitigate the risk of diabetes and its associated complications.
+Given the association between obesity (indicated by BMI) and Diabetes, interventions focusing on weight management and lifestyle modifications are vital. Emphasizing the importance of healthy dietary habits and regular physical activity can help mitigate the risk of diabetes and its associated complications (Wu, Ding, Tanaka, & Zhang, 2014).
 
 Overall, the implications of these findings highlight the need for comprehensive, multifaceted approaches to diabetes prevention, management, and intervention strategies that consider the diverse factors influencing diabetes risk and outcomes.
 
