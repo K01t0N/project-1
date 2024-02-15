@@ -1,5 +1,7 @@
 ## Data Analysis Report: Exploring Potential Contributing Factors to Diabetes
 
+**Contributors:** Saudia Epps, Kolton Ascheman, Nathan Trnka, and Marsha Cole
+
 ### Introduction
 
 Diabetes, also known as diabetes mellitus, represents a significant global health challenge, with its prevalence steadily increasing. According to the International Diabetes Federation, approximately 537 million adults aged 20-79 were affected worldwide in 2021. In the United States, the Centers for Disease Control and Prevention's 2022 data indicate that over 133 million individuals are affected by either prediabetes (96 million) or diabetes (37.3 million), and of those who are diabetic, approximately 90-95% of them have type 2 diabetes. This escalating burden highlights the importance of understanding the contributing factors.
