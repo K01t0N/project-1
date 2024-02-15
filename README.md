@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Diabetes, also known as diabetes mellitus, represents a significant global health challenge, with its prevalence steadily increasing. According to the International Diabetes Federation, approximately 537 million adults aged 20-79 were affected worldwide in 2021. In the United States, the Centers for Disease Control and Prevention's 2022 data indicate that over 133 million individuals are affected by either prediabetes (96 million) or diabetes (37.3 million), and of those who are diabetic, approximately 90-95% of them have type 2 diabetes. This escalating burden highlights the importance of understanding the contributing factors.
+Diabetes, also known as diabetes mellitus, represents a significant global health challenge, with its prevalence steadily increasing. According to the International Diabetes Federation, approximately 537 million adults aged 20-79 were affected worldwide in 2021. In the United States, the Centers for Disease Control and Prevention's (2022a) data indicate that over 133 million individuals are affected by either prediabetes (96 million) or diabetes (37.3 million), and of those who are diabetic, approximately 90-95% of them have type 2 diabetes. This escalating burden highlights the importance of understanding the contributing factors.
 
 Our exploratory analysis focused on the diabetes prediction dataset; our aim was to see if there are possible relationships between an individual diagnosed with Type 2 Diabetes and other behaviors, conditions, or demographics. Age, gender, body mass index (BMI), hypertension, heart disease, smoking history, glycated hemoglobin (HbA1c) level, and blood glucose level were analyzed. 
 
@@ -73,9 +73,9 @@ The majority of those with Diabetes were overweight (40%) or obese (50%). The ot
 1% were underweight.
 
 **Blood glucose and HbA1c levels:**
-The average HgA1c level for those with Diabetes was 6.9% (median = 6.6 and SD = 1.08), whereas the average HgA1c level for non-diabetics was 5.4 % (median = 5.8 and SD = 0.97). According to the CDC (2022), hemoglobin A1C (HbA1c) levels are normally below 5.7% for non-diabetics, between 5.7% and 6.4% for prediabetics and 6.5% or higher for those with diabetes.
+The average HgA1c level for those with Diabetes was 6.9% (median = 6.6 and SD = 1.08), whereas the average HgA1c level for non-diabetics was 5.4 % (median = 5.8 and SD = 0.97). According to the CDC (2022b), hemoglobin A1C (HbA1c) levels are normally below 5.7% for non-diabetics, between 5.7% and 6.4% for prediabetics and 6.5% or higher for those with diabetes.
 
-The average blood glucose level was 194.4mg/dL (median of 160 and SD= 58.69) for Diabetics and 132 mg/dL (median = 140 and SD = 34.2) for non-diabetics. The CDC's (2022) fasting blood sugar ranges are:
+The average blood glucose level was 194.4mg/dL (median of 160 and SD= 58.69) for Diabetics and 132 mg/dL (median = 140 and SD = 34.2) for non-diabetics. The CDC's (2022b) fasting blood sugar ranges are:
 diabetics:  126 mg/dL or above,
 prediabetics:  100 -125 mg/dL, and 
 and normal:  99 mg/dL or below.
@@ -120,7 +120,7 @@ Overall, the implications of these findings highlight the need for comprehensive
 
 ### Conclusion
 
-We found that the majority (88%) of those who reported having Diabetes were 45 years and older. A slightly higher proportion (53%) of females reported having Diabetes. A substantial portion (42%) of individuals with diabetes report having never smoked, and 90% of those who reported having diabetes were overweight or obese. Our findings align with established risk factors for Type 2 Diabetes: age 45 or older, overweight (BMI ≥ 25 kg/m²), and physical inactivity (<3 times a week) (CDC, 2022).
+We found that the majority (88%) of those who reported having Diabetes were 45 years and older. A slightly higher proportion (53%) of females reported having Diabetes. A substantial portion (42%) of individuals with diabetes report having never smoked, and 90% of those who reported having diabetes were overweight or obese. Our findings align with established risk factors for Type 2 Diabetes: age 45 or older, overweight (BMI ≥ 25 kg/m²), and physical inactivity (<3 times a week) (CDC, 2022a).
 
 
 This analysis highlights the complex relationship between demographic factors, lifestyle behaviors, and the prevalence of diabetes. Understanding these correlations is crucial for informing targeted interventions aimed at both preventing and managing Diabetes effectively. The next steps should involve developing and implementing comprehensive health promotion strategies, including targeted education campaigns, smoking cessation programs, behavior change interventions, and obesity management initiatives (Wu, Ding, Tanaka, & Zhang, 2014).
